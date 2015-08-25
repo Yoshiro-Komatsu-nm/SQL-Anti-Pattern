@@ -1,5 +1,4 @@
-# SQL-Anti-Pattern
-##<a name="1">SQLアンチパターン勉強会
+# SQLアンチパターン勉強会
 
 ##<a name="2">ルール
 
